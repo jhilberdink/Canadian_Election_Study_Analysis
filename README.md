@@ -1,2 +1,2 @@
 # Final-Project
-election
+discussion on overall project 
