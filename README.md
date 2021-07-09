@@ -19,4 +19,6 @@ Question we hope to answer:
 We're using a group on slack to communicate
 
 ## Machine Learning Model
+
+We will attempt to predict respondents' party preferences based on their demographic information and their issue priorities. We plan to used a k-means algorithm to cluster respondents and test how well it will predict their voting preferences.
 ...
