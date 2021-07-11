@@ -20,5 +20,8 @@ We're using a group on slack to communicate
 
 ## Machine Learning Model
 
-We will attempt to predict respondents' political party preferences based on their demographic information and their issue priorities. We plan to use a supervised machine learning model such as Random Forest or Ensemble Classifier to predict party prefence.
-...
+We will attempt to predict respondents' political party preferences based on their demographic information and their issue priorities. We plan to use a supervised machine learning model such as Random Forest or Ensemble Classifier to predict party preference.
+
+## Database
+
+The dataset is currently stored in a CSV file in the github repository. Data will be entered into a PostgreSQL database that will be connected to the final machine learning model.
