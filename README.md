@@ -3,10 +3,10 @@
 ## Overview
 
 Selected topic:
-- We've selected a political survey for our topic
+- Our topic is the 2019 Canadian Election Study, a large-scale survey measuring the attitudes of Canadians on important political, social, and economic issues before the most recent Federal election.
 
 Reason for selection:
-- It's an interesting data set with a lot of different potential angles for analysis. 
+- It's a rich dataset with many angles for analysis.
 
 Description of source data:
 - It's a survey on the 2019 Federal election covering a multitude of topics potentially relevant. It's a mostly multiple choice survey with 37,822 responses.
@@ -20,5 +20,5 @@ We're using a group on slack to communicate
 
 ## Machine Learning Model
 
-We will attempt to predict respondents' party preferences based on their demographic information and their issue priorities. We plan to used a k-means algorithm to cluster respondents and test how well it will predict their voting preferences.
+We will attempt to predict respondents' political party preferences based on their demographic information and their issue priorities. We plan to use a supervised machine learning model such as Random Forest or Ensemble Classifier to predict party prefence.
 ...
