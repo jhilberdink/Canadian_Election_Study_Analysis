@@ -1,3 +1,2 @@
 # Final-Project
-Deep thoughts
-Other deep thoughts
+discussion on overall project 
