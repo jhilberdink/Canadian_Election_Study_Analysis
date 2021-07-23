@@ -35,6 +35,7 @@ The dataset is currently stored in a CSV file in the github repository. Data wil
 ## Dashboard
 
 TO FILL OUT(Based on below notes)
+
 ✓ Description of the tool(s) that will be
 used to create final dashboard
 ✓ Description of interactive element(s)
