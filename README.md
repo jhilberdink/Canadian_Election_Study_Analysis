@@ -6,13 +6,19 @@ Selected topic:
 - Our topic is the 2019 Canadian Election Study, a large-scale survey measuring the attitudes of Canadians on important political, social, and economic issues before the most recent Federal election.
 
 Reason for selection:
-- It's a rich dataset with many angles for analysis.
+- It's a rich dataset with many angles for analysis and we had some people interested in exploring political ideas and why people vote for different parties based on their demographics and opinions.
 
 Description of source data:
 - It's a survey on the 2019 Federal election covering a multitude of topics potentially relevant. It's a mostly multiple choice survey with 37,822 responses.
 
 Question we hope to answer:
 - Predict party preference based on survey data
+
+Description of Data Exploration Phase:
+- TO FILL OUT
+
+Description of Analysis Phase:
+- TO FILL OUT
 
 ## Communication Protocols
 
@@ -25,3 +31,10 @@ We will attempt to predict respondents' political party preferences based on the
 ## Database
 
 The dataset is currently stored in a CSV file in the github repository. Data will be entered into a PostgreSQL database that will be connected to the final machine learning model.
+
+## Dashboard
+
+TO FILL OUT(Based on below notes)
+✓ Description of the tool(s) that will be
+used to create final dashboard
+✓ Description of interactive element(s)
