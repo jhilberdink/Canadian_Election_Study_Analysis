@@ -14,11 +14,8 @@ Description of source data:
 Question we hope to answer:
 - Predict party preference based on survey data
 
-Description of Data Exploration Phase:
-- TO FILL OUT
-
-Description of Analysis Phase:
-- TO FILL OUT
+Description of Data Exploration and Analysis Phase
+- Our analysis focuses on the demographic factors and issues that influenced Canadians' voting decisions in 2019. Because of this focus, some survey questions that are closely linked to political affiliation were dropped from the dataset--for example, questions about party ID, party membership, political donations, or opinions on party leaders were not included in the dataset used in our machine learning model. Additionally, some columns that had a large number of null values were dropped from the dataset. 
 
 ## Communication Protocols
 
@@ -34,8 +31,4 @@ The dataset is currently stored in a CSV file in the github repository. Data wil
 
 ## Dashboard
 
-TO FILL OUT(Based on below notes)
-
-✓ Description of the tool(s) that will be
-used to create final dashboard
-✓ Description of interactive element(s)
+We are using a Tableau dashboard to display our results. Visualizations will have filters for party and region to easily display the shape of the Canadian electorate.
