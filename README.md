@@ -31,4 +31,4 @@ The dataset is currently stored in a CSV file in the github repository. Data wil
 
 ## Dashboard
 
-We are using a Tableau dashboard to display our results. Visualizations will have filters for party and region to easily display the shape of the Canadian electorate.
+We are using a Tableau dashboard to display our results. Visualizations will have filters for party and region to easily display the shape of the Canadian electorate. (Note: the dashboard is currently in flux. Will be updated soon.)
