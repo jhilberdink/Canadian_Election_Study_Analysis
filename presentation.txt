@@ -1,0 +1,41 @@
+--------Presentation--------
+
+--Selected Topic--
+
+A 2019 Canadian Election Study, large scale survey measuring attitudes on political/social/economic issues
+
+--Reason for selected topic--
+
+It's a rich data set with many angles for analysis and we wanted to see how demographics and opinions affected peoples choice of party
+
+--Source Data Description--
+
+A mostly multiple choice survey of the 2019 Canadian Federal Election with 37,822 responses
+
+--Questions we hoped to answer--
+
+We hoped to be able to predict your party choice based on your demographics and opinions on political topics
+
+--Data Exploration Phase--
+
+We initially focused on the demographic factors and removed columns or rows with mostly null data
+
+--Analysis Phase--
+
+We started off trying to predict the exact parties people would vote for using a Random Forest Classifier which also allow us to find which of the features was more important in showing your political affiliations but didn't find it to be accurate so instead leaned towards trying to figure out which side of the political spectrum you would vote for (Left/Right).
+
+--Analysis Result--
+
+Our left/right analysis proved much more accurate for our model which came out to an 84.6% balanced accuracy score.
+
+--Technologies/Lang/Tools/Algorithms used--
+
+We used Postgres with SQL for our database and Tableau for our presentation. Our analysis was mostly in python using a Random Forest Classifier along with 
+
+--Recommendation for Future Analysis--
+
+This Election Study has been ongoing since 1965 for each federal election and it would be interesting to take this data over the years and see how trends have changed over the years and to see if any of those changes were along party lines
+
+--Anything the team would do differently--
+
+We could've used a wider breadth of machine learning options in our analysis phase but we focused more on the Random Forest Classifier as it allowed included a feature importance option which we thought would be another interesting data point. If we included other models though we may have been able to find something more accurate for our purposes.
