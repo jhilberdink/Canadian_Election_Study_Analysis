@@ -18,7 +18,8 @@ We hoped to be able to predict your party choice based on your demographics and 
 
 --Data Exploration Phase--
 
-We initially focused on the demographic factors and removed columns or rows with mostly null data along with any columns that were either irrelevant or the data was too varied to be able to parse down into something that would be usable in the machine learning portion
+We initially focused on the demographic factors and removed columns or rows with mostly null data along with any columns that 
+were either irrelevant or the data was too varied to be able to parse down into something that would be usable in the machine learning portion
 
 --Analysis Phase--
 
