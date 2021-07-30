@@ -17,6 +17,7 @@ Question we hope to answer:
 Description of Data Exploration and Analysis Phase
 - Our analysis focuses on the demographic factors and issues that influenced Canadians' voting decisions in 2019. Because of this focus, some survey questions that are closely linked to political affiliation were dropped from the dataset--for example, questions about party ID, party membership, political donations, or opinions on party leaders were not included in the dataset used in our machine learning model. Additionally, some columns that had a large number of null values were dropped from the dataset. 
 - Changed our focus from predicting the exact political party to predicting wether the person was left or right leaning in the political spectrum
+
 Our Machine Learning Model when predicting which political party you would vote for:
 
 ![Party Prediction](Resources/politicalparty.png)
