@@ -32,8 +32,8 @@ We will attempt to predict respondents' political party preferences based on the
 
 ## Database
 
-The dataset is currently stored in a CSV file in the github repository. Data will be entered into a PostgreSQL database that will be connected to the final machine learning model.
+Our dataset is stored in a PostgreSQL database.
 
 ## Dashboard
 
-We are using a Tableau dashboard to display our results. Visualizations will have filters for party and region to easily display the shape of the Canadian electorate. (Note: the dashboard is currently in flux. Will be updated soon.)
+A Tableau Dashboard with the results of our analysis can be found here: https://public.tableau.com/app/profile/jason.hilberdink/viz/Election_Analysis/Story1.
