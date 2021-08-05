@@ -44,7 +44,7 @@ We will attempt to predict respondents' political party preferences based on the
   - We ended with an accuracy score of 84.6%
   - Confusion Matrix:
 
-![Confusion Matrix](Resources/...)
+![Confusion Matrix](Resources/confusion_matrix.png)
 
 ## Database
 
