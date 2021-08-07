@@ -3,13 +3,13 @@
 ## Overview
 
 Selected topic:
-- Our topic is the 2019 Canadian Election Study, a large-scale survey measuring the attitudes of Canadians on important political, social, and economic issues before the most recent Federal election.
+- This project examines the Canadian Election Study, a large-scale survey conducted before and after the 2019 Canadian Federal election. In our analysis, we seek to uncover the key factors that drive Canadian voting preferences. 
 
 Reason for selection:
-- It's a rich dataset with many angles for analysis and we had some people interested in exploring political ideas and why people vote for different parties based on their demographics and opinions.
+- It's a rich dataset that covers a wide number of issues, and members of the group are interested in Canadian politics.
 
 Description of source data:
-- It's a survey on the 2019 Federal election covering a multitude of topics potentially relevant. It's a mostly multiple choice survey with 37,822 responses.
+- The study consists of an online survey conducted pre and post election with 37,822 respondents. The source data can be found at the [Canadian Election Study website](http://www.ces-eec.ca/). 
 
 Question we hope to answer:
 - Predict party preference based on survey data
