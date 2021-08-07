@@ -6,13 +6,14 @@ Selected topic:
 - This project examines the Canadian Election Study, a large-scale survey conducted before and after the 2019 Canadian Federal election. In our analysis, we seek to uncover the key factors that drive Canadian voting preferences. 
 
 Reason for selection:
-- It's a rich dataset that covers a wide number of issues, and members of the group are interested in Canadian politics.
+- The CES is a rich datasource that covers a wide number of issues, and members of the group are interested in Canadian politics.
 
 Description of source data:
-- The study consists of an online survey conducted pre and post election with 37,822 respondents. The source data can be found at the [Canadian Election Study website](http://www.ces-eec.ca/). 
+- The study consists of an online survey conducted pre and post election with 37,822 respondents. The source data can be found at the [Canadian Election Study website](http://www.ces-eec.ca/). The CES was designed and conducted by Laura Stephenson, Allison Harell, Daniel Rubenson, and Peter Loewen.
 
 Question we hope to answer:
-- Predict party preference based on survey data
+- Is it possible to predict respondents' party preference based on survey responses?
+- What are the key factors that drive Canadian voting choices?
 
 Description of Data Exploration and Analysis Phase
 - Our analysis focuses on the demographic factors and issues that influenced Canadians' voting decisions in 2019. Because of this focus, some survey questions that are closely linked to political affiliation were dropped from the dataset--for example, questions about party ID, party membership, political donations, or opinions on party leaders were not included in the dataset used in our machine learning model. Additionally, some columns that had a large number of null values were dropped from the dataset. 
